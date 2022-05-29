@@ -1,4 +1,5 @@
 # rofi-quran
+![Screenshot](screenshot.png)
 
 Rofi script adopted from [kaomoji-rofi](https://gitlab.com/ceda_ei/kaomoji-rofi) to copy verse of the Quran to your clipboard.
 
@@ -6,7 +7,7 @@ Rofi script adopted from [kaomoji-rofi](https://gitlab.com/ceda_ei/kaomoji-rofi)
 
 - rofi
 - xclip
-- Arabic Font (optional)
+- Traditional Arabic Font (optional)
 
 
 ## Installation
