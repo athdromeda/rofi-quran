@@ -1,0 +1,6 @@
+rofi.width: 100
+rofi.lines: 11
+rofi.columns: 5
+rofi.fullscreen: true
+rofi.hide-scrollbar: true
+rofi.location: 0
